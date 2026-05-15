@@ -1,0 +1,826 @@
+city,locality,property_type,bedrooms,bathrooms,area_sqft,age_years,parking_spaces,floor,furnishing_status,price_inr
+Mumbai,Salt Lake,villa,3.0,2.0,2178,6.0,,5,,81175976
+Mumbai,Whitefield,Villa,5.0,5.0,567,34.0,3.0,14,semi furnished,26501598
+Kolkata,Dwarka,villa,4.0,3.0,2626,21.0,0.0,5,semi furnished,47256755
+Hyderabad,Gomti Nagar,Independent House,,1.0,4113,24.0,0.0,Ground,Unfurnished,75828772
+Mumbai,Salt Lake,villa,2.0,3.0,1003,6.0,3.0,17,semi furnished,40770147
+Delhi,Banjara Hills,Independent House,2.0,,2537,4.0,,10,,58264790
+Pune,T Nagar,villa,6.0,5.0,2149,3.0,1.0,2,Unfurnished,57454293
+Bangalore,Gomti Nagar,villa,3.0,2.0,5719,29.0,1.0,16,Semi-Furnished,150542189
+Jaipur,T Nagar,villa,5.0,4.0,5130,14.0,1.0,32,semi furnished,75358363
+Mumbai,Dwarka,villa,2.0,,3808,24.0,3.0,29,,139251835
+Kolkata,Andheri,villa,5.0,3.0,5600,18.0,3.0,10,semi furnished,101261222
+Chennai,Malviya Nagar,Villa,5.0,1.0,5472,32.0,,12,Semi-Furnished,124959624
+Jaipur,Malviya Nagar,Apartment,5.0,3.0,142,19.0,1.0,3,Semi-Furnished,5990414
+Mumbai,Navrangpura,Apartment,,5.0,1380,30.0,,10,Unfurnished,22834692
+Bangalore,T Nagar,Flat,6.0,,3409,33.0,3.0,7,Semi-Furnished,37481100
+Lucknow,Malviya Nagar,Villa,5.0,2.0,408,3.0,1.0,4,Furnished,9457859
+Bangalore,T Nagar,villa,4.0,2.0,4767,30.0,1.0,30,semi furnished,125656578
+Pune,Banjara Hills,Flat,4.0,4.0,793,6.0,0.0,25,Unfurnished,9361455
+Bangalore,Malviya Nagar,Flat,2.0,4.0,1853,15.0,0.0,28,,19584721
+Jaipur,Salt Lake,Apartment,,2.0,1712,30.0,1.0,25,Furnished,34192316
+Chennai,Navrangpura,Independent House,4.0,,4902,31.0,1.0,12,Unfurnished,81344489
+Jaipur,Salt Lake,villa,3.0,1.0,760,32.0,,10,Furnished,12667494
+Delhi,Andheri,apartment,1.0,,2276,15.0,,2,,29126193
+Lucknow,Malviya Nagar,Independent House,3.0,2.0,5836,15.0,2.0,25,Semi-Furnished,64807001
+Ahmedabad,Banjara Hills,Apartment,1.0,4.0,5438,6.0,0.0,34,Semi-Furnished,42342308
+Hyderabad,Andheri,Villa,3.0,3.0,1642,34.0,2.0,33,Furnished,42687546
+Chennai,Andheri,Villa,3.0,1.0,1226,9.0,2.0,18,,28482753
+Bangalore,T Nagar,apartment,4.0,3.0,766,27.0,2.0,2,Furnished,10866115
+Chennai,Dwarka,villa,4.0,5.0,3853,7.0,0.0,9,,84094609
+Lucknow,Malviya Nagar,Villa,4.0,2.0,692,2.0,2.0,13,Semi-Furnished,15724418
+Jaipur,Hinjewadi,apartment,6.0,2.0,2289,11.0,3.0,1,Semi-Furnished,18694933
+Pune,Whitefield,Independent House,2.0,,1235,2.0,3.0,14,Semi-Furnished,25462347
+Bangalore,Whitefield,Apartment,6.0,2.0,3614,4.0,2.0,22,,46596905
+Jaipur,Banjara Hills,Apartment,1.0,3.0,1812,16.0,0.0,6,,12512265
+Hyderabad,Hinjewadi,apartment,5.0,1.0,3505,12.0,2.0,2,semi furnished,35023587
+Jaipur,Whitefield,Independent House,4.0,1.0,5791,20.0,0.0,19,,66438979
+Hyderabad,Hinjewadi,villa,3.0,5.0,1392,24.0,1.0,Top,Unfurnished,34258213
+Kolkata,T Nagar,Independent House,2.0,4.0,5101,20.0,3.0,28,semi furnished,76125612
+Ahmedabad,Dwarka,villa,1.0,3.0,4572,21.0,0.0,15,Unfurnished,75672989
+Delhi,Salt Lake,Apartment,2.0,4.0,5357,4.0,3.0,26,,68366400
+Pune,Navrangpura,Flat,2.0,2.0,5724,6.0,3.0,14,Semi-Furnished,61540851
+Kolkata,Malviya Nagar,Villa,,1.0,4089,29.0,,Ground,,77953654
+Jaipur,Hinjewadi,apartment,4.0,2.0,4238,15.0,2.0,33,semi furnished,31487666
+Ahmedabad,Andheri,villa,3.0,2.0,2575,34.0,0.0,8,Semi-Furnished,42545761
+Delhi,Whitefield,Apartment,4.0,4.0,3060,26.0,0.0,13,semi furnished,40765968
+Lucknow,Salt Lake,apartment,4.0,4.0,398,19.0,3.0,26,,7162849
+Bangalore,Navrangpura,Villa,3.0,4.0,136,25.0,1.0,29,Semi-Furnished,7808885
+Pune,Gomti Nagar,apartment,6.0,1.0,1037,8.0,3.0,11,Furnished,14487149
+Bangalore,Navrangpura,Independent House,3.0,4.0,2629,26.0,2.0,5,semi furnished,53268966
+Kolkata,Banjara Hills,Villa,6.0,1.0,5689,1.0,1.0,12,Furnished,113325221
+Delhi,Navrangpura,villa,1.0,5.0,2135,16.0,2.0,10,,64897000
+Mumbai,Dwarka,Independent House,1.0,5.0,560,24.0,3.0,12,Furnished,18871676
+Bangalore,Andheri,villa,,3.0,5955,7.0,,2,Unfurnished,162662203
+Jaipur,Banjara Hills,Apartment,,4.0,4365,23.0,3.0,9,semi furnished,30259328
+Chennai,Gomti Nagar,apartment,,4.0,4158,17.0,2.0,15,Furnished,42255481
+Ahmedabad,Gomti Nagar,apartment,6.0,4.0,133,11.0,3.0,13,Unfurnished,5360457
+Lucknow,T Nagar,apartment,1.0,5.0,1915,26.0,3.0,Ground,Semi-Furnished,14797051
+Ahmedabad,Navrangpura,Apartment,1.0,3.0,2165,15.0,2.0,,Unfurnished,17716196
+Hyderabad,Hinjewadi,villa,5.0,3.0,3232,17.0,2.0,16,Semi-Furnished,75111102
+Hyderabad,Andheri,villa,5.0,,1866,30.0,2.0,,,44586949
+Bangalore,T Nagar,Villa,3.0,2.0,186,8.0,2.0,2,Furnished,9288727
+Delhi,Navrangpura,Apartment,,1.0,5052,30.0,3.0,21,Semi-Furnished,61756902
+Ahmedabad,Andheri,Apartment,4.0,4.0,956,3.0,1.0,9,,10493437
+Bangalore,Andheri,apartment,,4.0,5316,14.0,,24,semi furnished,63579418
+Pune,T Nagar,apartment,5.0,1.0,5344,6.0,1.0,13,Unfurnished,61707672
+Bangalore,Dwarka,apartment,1.0,2.0,371,30.0,2.0,2,Semi-Furnished,3371038
+Ahmedabad,Andheri,villa,2.0,3.0,5470,12.0,3.0,7,,92535518
+Chennai,Dwarka,Apartment,1.0,2.0,2869,18.0,3.0,7,semi furnished,30300889
+Pune,T Nagar,apartment,5.0,4.0,3936,2.0,3.0,20,,45144638
+Bangalore,Gomti Nagar,apartment,1.0,,2557,11.0,3.0,33,semi furnished,28899521
+Pune,Navrangpura,Apartment,4.0,3.0,3695,6.0,1.0,21,semi furnished,44736956
+Pune,Malviya Nagar,Apartment,4.0,1.0,2926,7.0,3.0,32,Furnished,36132255
+Ahmedabad,Hinjewadi,Apartment,2.0,5.0,3313,31.0,3.0,3,Semi-Furnished,24783870
+Chennai,Navrangpura,villa,4.0,1.0,586,15.0,1.0,19,,12035116
+Mumbai,Whitefield,Apartment,4.0,1.0,5656,31.0,2.0,32,Unfurnished,90163985
+Ahmedabad,Whitefield,Flat,5.0,2.0,3492,32.0,1.0,4,Unfurnished,26831461
+Jaipur,T Nagar,Apartment,3.0,,2795,31.0,1.0,28,,18200909
+Jaipur,Hinjewadi,Flat,3.0,2.0,2306,14.0,3.0,2,Unfurnished,16967580
+Pune,Hinjewadi,villa,,,1596,2.0,1.0,32,,41319876
+Ahmedabad,Salt Lake,villa,2.0,4.0,5713,4.0,3.0,16,Unfurnished,100766750
+Mumbai,Banjara Hills,villa,,5.0,3463,31.0,,2,,123586834
+Chennai,Whitefield,villa,1.0,4.0,1156,6.0,3.0,10,Unfurnished,24179194
+Kolkata,T Nagar,Independent House,3.0,4.0,1542,26.0,,11,Semi-Furnished,21908268
+Pune,Gomti Nagar,villa,2.0,4.0,5127,29.0,2.0,29,Unfurnished,151918013
+Chennai,Malviya Nagar,Villa,1.0,4.0,3180,19.0,3.0,16,semi furnished,72174900
+Pune,Navrangpura,Apartment,2.0,4.0,5035,18.0,2.0,1,semi furnished,65102159
+Lucknow,Navrangpura,Independent House,,2.0,5323,14.0,1.0,16,Semi-Furnished,57639108
+Chennai,Navrangpura,Apartment,5.0,3.0,1426,18.0,2.0,26,Semi-Furnished,15621748
+Jaipur,Banjara Hills,apartment,5.0,3.0,1697,30.0,2.0,21,Furnished,14327928
+Delhi,Whitefield,villa,6.0,,3605,,2.0,5,semi furnished,106906358
+Ahmedabad,Banjara Hills,villa,6.0,,2497,23.0,0.0,14,semi furnished,47011903
+Jaipur,Banjara Hills,apartment,2.0,,867,29.0,2.0,26,Furnished,2965476
+Chennai,Navrangpura,Apartment,1.0,2.0,4753,29.0,2.0,34,semi furnished,46190047
+Delhi,Hinjewadi,villa,1.0,4.0,5393,17.0,0.0,23,Semi-Furnished,156315038
+Bangalore,Banjara Hills,Apartment,6.0,3.0,4810,22.0,0.0,25,Unfurnished,57288629
+Ahmedabad,Andheri,villa,2.0,,5588,1.0,0.0,21,Semi-Furnished,96936495
+Jaipur,Whitefield,apartment,2.0,2.0,3041,0.0,2.0,9,Semi-Furnished,22867495
+Delhi,Andheri,villa,,1.0,110,20.0,0.0,11,Unfurnished,1200000
+Jaipur,Andheri,villa,1.0,4.0,4022,32.0,,6,semi furnished,58950248
+Lucknow,Salt Lake,villa,,,4621,1.0,0.0,30,semi furnished,62334525
+Ahmedabad,Andheri,Apartment,3.0,5.0,1565,17.0,,,,17042170
+Lucknow,Malviya Nagar,Independent House,4.0,5.0,5309,7.0,,13,semi furnished,59474381
+Pune,Banjara Hills,Flat,4.0,4.0,1128,20.0,2.0,23,Semi-Furnished,16966112
+Mumbai,Andheri,Apartment,1.0,4.0,1141,23.0,1.0,Ground,Furnished,20304225
+Jaipur,Banjara Hills,villa,1.0,4.0,3246,27.0,0.0,18,,46352603
+Lucknow,Malviya Nagar,Villa,2.0,,4300,6.0,2.0,Ground,Unfurnished,60037199
+Pune,Malviya Nagar,apartment,5.0,,5614,17.0,0.0,11,Unfurnished,61272551
+Hyderabad,Salt Lake,Villa,,2.0,4989,4.0,1.0,1,Furnished,120374915
+Hyderabad,Dwarka,Independent House,3.0,,3007,5.0,0.0,9,Semi-Furnished,53568926
+Chennai,Navrangpura,villa,4.0,4.0,5323,17.0,1.0,32,Furnished,117564062
+Chennai,Gomti Nagar,Flat,5.0,,2876,25.0,,3,Furnished,27456880
+Delhi,T Nagar,Independent House,3.0,1.0,413,27.0,1.0,8,semi furnished,11570256
+Jaipur,Malviya Nagar,villa,,3.0,940,2.0,3.0,1,semi furnished,15127021
+Lucknow,Hinjewadi,villa,6.0,4.0,2721,1.0,2.0,10,,42352048
+Hyderabad,Andheri,Flat,,1.0,2343,25.0,,5,semi furnished,22794441
+Delhi,Andheri,apartment,6.0,1.0,4696,22.0,2.0,9,Semi-Furnished,59898466
+Bangalore,Dwarka,apartment,2.0,,967,31.0,3.0,Top,,14301241
+Lucknow,Gomti Nagar,Independent House,,,2939,4.0,3.0,28,Unfurnished,31011149
+Mumbai,T Nagar,Flat,4.0,1.0,816,18.0,0.0,5,,16006622
+Ahmedabad,Gomti Nagar,apartment,,,686,12.0,2.0,30,,7053341
+Hyderabad,Andheri,apartment,6.0,2.0,670,28.0,3.0,33,,12255018
+Hyderabad,T Nagar,Flat,4.0,3.0,5911,21.0,0.0,21,Furnished,59496180
+Chennai,T Nagar,villa,,,5287,21.0,0.0,,Semi-Furnished,117656920
+Pune,Dwarka,apartment,6.0,1.0,2886,21.0,1.0,33,Furnished,35748648
+Jaipur,Banjara Hills,Apartment,3.0,3.0,1826,21.0,3.0,12,Semi-Furnished,11723221
+Chennai,Andheri,apartment,,5.0,4663,21.0,,8,,45054645
+Lucknow,Dwarka,villa,4.0,1.0,3715,15.0,3.0,18,semi furnished,50502497
+Chennai,Navrangpura,Villa,3.0,,5022,29.0,2.0,24,,114801189
+Bangalore,Gomti Nagar,Villa,,3.0,777,23.0,,6,,21009593
+Delhi,T Nagar,Flat,5.0,2.0,3933,14.0,3.0,22,Furnished,50840055
+Jaipur,Banjara Hills,Villa,4.0,1.0,3421,20.0,0.0,21,Semi-Furnished,51187165
+Ahmedabad,Dwarka,villa,4.0,4.0,70,1.0,2.0,13,Semi-Furnished,7070783
+Lucknow,Malviya Nagar,Flat,1.0,3.0,2296,3.0,1.0,26,,14896010
+Ahmedabad,Gomti Nagar,apartment,1.0,,4571,9.0,2.0,27,Furnished,34611515
+Pune,Dwarka,villa,6.0,1.0,4638,4.0,,34,,116619205
+Pune,Navrangpura,Apartment,6.0,4.0,3408,1.0,2.0,4,Unfurnished,40160910
+Mumbai,Gomti Nagar,villa,,3.0,1442,34.0,2.0,11,semi furnished,55888343
+Delhi,Andheri,villa,,4.0,652,2.0,1.0,2,Unfurnished,23388358
+Jaipur,Navrangpura,Independent House,1.0,,1915,3.0,2.0,17,Furnished,23639693
+Ahmedabad,Hinjewadi,Independent House,2.0,4.0,4425,33.0,2.0,5,semi furnished,56462286
+Delhi,Malviya Nagar,Independent House,3.0,1.0,1005,18.0,2.0,28,,24740840
+Ahmedabad,Banjara Hills,Flat,1.0,,3238,27.0,2.0,3,Furnished,24946850
+Jaipur,Dwarka,Apartment,2.0,5.0,5904,2.0,1.0,4,Semi-Furnished,42202978
+Pune,Gomti Nagar,Apartment,5.0,2.0,5912,23.0,2.0,28,Furnished,66264204
+Hyderabad,Hinjewadi,Independent House,6.0,3.0,2394,1.0,1.0,31,,48036181
+Mumbai,T Nagar,Independent House,6.0,4.0,2107,18.0,3.0,12,Furnished,62073132
+Ahmedabad,Dwarka,villa,4.0,1.0,5936,20.0,2.0,4,,103100446
+Chennai,Dwarka,villa,6.0,,5574,23.0,,14,Furnished,121347054
+Ahmedabad,Salt Lake,Independent House,5.0,5.0,3372,,1.0,5,Furnished,48311206
+Ahmedabad,Malviya Nagar,Flat,,4.0,5059,20.0,0.0,28,semi furnished,35064592
+Jaipur,Gomti Nagar,Villa,,2.0,3894,3.0,0.0,33,Semi-Furnished,59202787
+Bangalore,Banjara Hills,apartment,3.0,1.0,2402,,2.0,8,Unfurnished,31743077
+Jaipur,Dwarka,apartment,5.0,2.0,1752,21.0,,2,Furnished,11528826
+Lucknow,T Nagar,villa,2.0,5.0,3762,1.0,3.0,34,Unfurnished,55252579
+Ahmedabad,Whitefield,villa,4.0,3.0,4065,3.0,1.0,28,semi furnished,72811551
+Hyderabad,Gomti Nagar,Villa,3.0,,2965,22.0,3.0,8,Unfurnished,74127551
+Bangalore,Navrangpura,Apartment,3.0,4.0,2380,3.0,2.0,24,,31199768
+Delhi,Banjara Hills,apartment,6.0,3.0,1905,31.0,,29,semi furnished,26627625
+Mumbai,Hinjewadi,apartment,4.0,2.0,2112,3.0,0.0,18,semi furnished,38164550
+Ahmedabad,T Nagar,apartment,1.0,1.0,3880,16.0,2.0,25,Unfurnished,25945920
+Lucknow,Malviya Nagar,Villa,3.0,5.0,2714,32.0,3.0,Ground,Unfurnished,41545921
+Mumbai,Dwarka,Apartment,4.0,3.0,3127,23.0,1.0,12,,52437029
+Kolkata,Salt Lake,Apartment,2.0,,3078,33.0,3.0,9,,22875967
+Lucknow,Banjara Hills,Villa,4.0,5.0,2801,32.0,,34,semi furnished,43797468
+Ahmedabad,Salt Lake,Independent House,3.0,,1247,19.0,0.0,30,Unfurnished,19958282
+Kolkata,Gomti Nagar,Flat,2.0,5.0,5502,24.0,1.0,15,Furnished,44092887
+Mumbai,Whitefield,Apartment,4.0,3.0,3780,13.0,3.0,32,,63319113
+Kolkata,Dwarka,apartment,2.0,5.0,3012,30.0,,24,Unfurnished,23076359
+Jaipur,Banjara Hills,apartment,3.0,,5926,16.0,,30,Semi-Furnished,37858715
+Bangalore,T Nagar,Independent House,6.0,2.0,4355,22.0,,17,Unfurnished,91250514
+Jaipur,Hinjewadi,Flat,,3.0,1549,18.0,0.0,22,semi furnished,12031280
+Jaipur,T Nagar,apartment,6.0,3.0,1474,15.0,1.0,3,,12395830
+Kolkata,Andheri,Flat,3.0,,4219,8.0,0.0,Ground,Semi-Furnished,35919651
+Ahmedabad,Navrangpura,villa,2.0,3.0,2981,3.0,0.0,Top,Semi-Furnished,53508045
+Kolkata,Dwarka,Flat,,2.0,647,25.0,3.0,11,Unfurnished,2087008
+Lucknow,Andheri,Independent House,3.0,4.0,5603,31.0,1.0,32,semi furnished,58442211
+Mumbai,Banjara Hills,Villa,6.0,4.0,5660,11.0,0.0,21,Unfurnished,218358294
+Bangalore,Dwarka,apartment,,,3671,32.0,2.0,5,semi furnished,39455777
+Bangalore,Salt Lake,Independent House,4.0,2.0,4009,21.0,2.0,,,82044257
+Hyderabad,Whitefield,Apartment,6.0,1.0,4162,25.0,,19,Furnished,46533458
+Chennai,Banjara Hills,apartment,2.0,2.0,1444,29.0,,23,semi furnished,16699145
+Ahmedabad,Malviya Nagar,villa,,2.0,2377,5.0,,28,,40010661
+Mumbai,Salt Lake,apartment,5.0,2.0,5041,10.0,2.0,33,semi furnished,80424691
+Lucknow,Navrangpura,Apartment,5.0,4.0,805,32.0,3.0,29,,5248931
+Chennai,Salt Lake,Flat,3.0,1.0,2135,2.0,3.0,22,Furnished,23334028
+Mumbai,Navrangpura,Apartment,3.0,4.0,1824,26.0,2.0,24,semi furnished,30591068
+Jaipur,Dwarka,villa,,3.0,1321,34.0,3.0,33,Semi-Furnished,16618128
+Chennai,Navrangpura,villa,6.0,5.0,3824,14.0,1.0,29,Unfurnished,85594324
+Mumbai,Salt Lake,villa,4.0,5.0,478,4.0,0.0,2,semi furnished,23205223
+Kolkata,Whitefield,villa,1.0,4.0,3945,13.0,0.0,8,,71254817
+Lucknow,Banjara Hills,apartment,5.0,,2976,9.0,,14,semi furnished,20025878
+Lucknow,Dwarka,villa,6.0,4.0,4903,22.0,3.0,33,Unfurnished,71854926
+Delhi,T Nagar,Flat,2.0,5.0,4229,14.0,2.0,9,semi furnished,49972408
+Pune,Malviya Nagar,apartment,2.0,4.0,2339,21.0,0.0,28,Unfurnished,23336244
+Bangalore,Salt Lake,Independent House,4.0,,5305,4.0,1.0,,,113282010
+Hyderabad,T Nagar,Apartment,2.0,2.0,1311,30.0,1.0,13,semi furnished,12190333
+Chennai,Hinjewadi,Flat,5.0,,3293,23.0,,31,semi furnished,32704727
+Hyderabad,Whitefield,Independent House,3.0,4.0,724,14.0,1.0,1,Unfurnished,17087129
+Lucknow,Hinjewadi,Independent House,2.0,2.0,3052,15.0,3.0,Ground,Unfurnished,32147005
+Ahmedabad,Navrangpura,Flat,2.0,,3235,34.0,3.0,11,,20495940
+Mumbai,Salt Lake,Apartment,4.0,2.0,5516,9.0,0.0,13,,89689886
+Lucknow,Gomti Nagar,Flat,6.0,4.0,191,26.0,0.0,1,,4052586
+Chennai,Salt Lake,apartment,,,5871,11.0,0.0,6,,54547602
+Chennai,Banjara Hills,Independent House,,4.0,997,25.0,3.0,Top,Semi-Furnished,17828825
+Mumbai,Salt Lake,Apartment,4.0,4.0,3439,3.0,0.0,10,Furnished,58646516
+Hyderabad,Gomti Nagar,Apartment,5.0,1.0,2232,30.0,2.0,2,Furnished,27003564
+Jaipur,Gomti Nagar,villa,1.0,2.0,103,9.0,3.0,4,Unfurnished,1200000
+Lucknow,Hinjewadi,villa,5.0,3.0,3494,8.0,0.0,32,Unfurnished,47297502
+Bangalore,Andheri,Independent House,5.0,5.0,5229,20.0,0.0,17,semi furnished,112491048
+Jaipur,Hinjewadi,Flat,2.0,,5149,5.0,,18,Semi-Furnished,30294890
+Delhi,Hinjewadi,villa,,,1613,20.0,2.0,6,Furnished,47390266
+Chennai,Andheri,Villa,1.0,2.0,3880,,,26,Furnished,85210620
+Jaipur,Andheri,apartment,5.0,3.0,155,24.0,0.0,Ground,Semi-Furnished,5605151
+Pune,Dwarka,Villa,3.0,3.0,2548,4.0,1.0,27,Unfurnished,67050542
+Mumbai,Banjara Hills,Independent House,2.0,,5470,12.0,3.0,6,Semi-Furnished,152414368
+Hyderabad,Gomti Nagar,Flat,,3.0,3956,8.0,2.0,20,,40289240
+Pune,Banjara Hills,Independent House,6.0,,5534,15.0,2.0,24,Unfurnished,107843452
+Lucknow,Whitefield,apartment,5.0,2.0,5934,1.0,3.0,13,semi furnished,37961343
+Mumbai,Hinjewadi,villa,4.0,2.0,5538,16.0,1.0,27,semi furnished,198863903
+Lucknow,Navrangpura,apartment,4.0,5.0,4500,26.0,,2,Unfurnished,31415734
+Jaipur,Gomti Nagar,villa,1.0,1.0,2383,22.0,1.0,2,,36361729
+Pune,Banjara Hills,Flat,1.0,1.0,1157,32.0,,Ground,,13299707
+Ahmedabad,Banjara Hills,Flat,4.0,,5171,9.0,2.0,1,semi furnished,38115901
+Mumbai,Andheri,villa,2.0,3.0,2905,13.0,,30,Unfurnished,106860739
+Ahmedabad,Banjara Hills,Apartment,3.0,1.0,137,6.0,1.0,15,,1650779
+Hyderabad,Malviya Nagar,Flat,4.0,2.0,3668,11.0,3.0,25,Furnished,39804350
+Ahmedabad,Gomti Nagar,Flat,4.0,1.0,2109,4.0,,6,,16174176
+Bangalore,Navrangpura,Apartment,3.0,,4359,20.0,,24,,53371112
+Hyderabad,Navrangpura,apartment,2.0,,2786,5.0,1.0,20,Furnished,28642393
+Hyderabad,Dwarka,apartment,4.0,4.0,5235,24.0,3.0,11,semi furnished,57032774
+Delhi,Malviya Nagar,Villa,4.0,3.0,1499,28.0,,3,Unfurnished,44038439
+Bangalore,Hinjewadi,apartment,5.0,,4404,31.0,3.0,28,semi furnished,50400251
+Bangalore,T Nagar,Apartment,3.0,2.0,4754,29.0,,31,,56665711
+Mumbai,T Nagar,apartment,,3.0,4790,2.0,3.0,34,Semi-Furnished,76693131
+Bangalore,T Nagar,Apartment,4.0,3.0,3205,5.0,3.0,7,Semi-Furnished,39340785
+Lucknow,Banjara Hills,villa,5.0,,3857,8.0,1.0,13,Furnished,54745544
+Lucknow,Malviya Nagar,Villa,3.0,,2747,17.0,,6,Semi-Furnished,36983142
+Delhi,Dwarka,Villa,2.0,,2988,25.0,3.0,9,,89965738
+Pune,Navrangpura,Apartment,6.0,1.0,3650,17.0,2.0,29,semi furnished,41460501
+Mumbai,Navrangpura,villa,6.0,,3284,34.0,3.0,13,semi furnished,121809888
+Chennai,Banjara Hills,apartment,5.0,2.0,4987,21.0,0.0,2,Furnished,51666094
+Ahmedabad,Salt Lake,Apartment,,2.0,3965,27.0,1.0,8,Unfurnished,28588841
+Hyderabad,T Nagar,Apartment,3.0,,5665,25.0,2.0,14,semi furnished,55470234
+Kolkata,Whitefield,Flat,1.0,2.0,5213,28.0,0.0,0,Unfurnished,36119943
+Pune,Dwarka,Flat,1.0,2.0,3488,6.0,0.0,20,Unfurnished,34881775
+Delhi,Dwarka,Apartment,5.0,5.0,419,10.0,3.0,22,Semi-Furnished,12387837
+Pune,Gomti Nagar,villa,4.0,2.0,1060,8.0,0.0,,semi furnished,28184093
+Hyderabad,Dwarka,Villa,3.0,,1040,18.0,0.0,19,Semi-Furnished,28581751
+Pune,T Nagar,villa,1.0,2.0,4404,15.0,3.0,4,,103309904
+Hyderabad,Dwarka,Flat,,5.0,3797,11.0,3.0,4,Furnished,34779349
+Kolkata,Salt Lake,Flat,5.0,3.0,5499,26.0,3.0,25,Furnished,46370806
+Lucknow,Dwarka,Independent House,1.0,3.0,997,13.0,1.0,34,Unfurnished,11477805
+Mumbai,T Nagar,villa,4.0,,2304,5.0,3.0,7,semi furnished,88689776
+Delhi,Andheri,Apartment,6.0,2.0,442,22.0,,33,Unfurnished,7466746
+Chennai,Andheri,Apartment,3.0,4.0,2578,16.0,,4,semi furnished,27388555
+Kolkata,Navrangpura,apartment,2.0,3.0,1638,6.0,,7,Semi-Furnished,26547051
+Bangalore,Salt Lake,Flat,3.0,4.0,1579,2.0,,26,Semi-Furnished,20210042
+Hyderabad,T Nagar,Apartment,5.0,3.0,1328,3.0,1.0,14,,14890916
+Mumbai,Navrangpura,Independent House,,3.0,3031,29.0,0.0,23,Semi-Furnished,87955033
+Lucknow,Whitefield,Flat,3.0,5.0,4391,12.0,,15,Semi-Furnished,23914195
+Kolkata,Whitefield,apartment,3.0,,428,0.0,3.0,19,Furnished,7722806
+Pune,Navrangpura,Apartment,2.0,,2642,14.0,,26,Unfurnished,26459013
+Jaipur,Dwarka,villa,,4.0,963,3.0,3.0,8,Semi-Furnished,16655326
+Pune,Banjara Hills,Independent House,4.0,3.0,2263,12.0,1.0,,Furnished,43767038
+Ahmedabad,Navrangpura,Independent House,4.0,1.0,4740,13.0,3.0,19,semi furnished,64131007
+Mumbai,Dwarka,villa,3.0,,5292,20.0,1.0,5,Semi-Furnished,191780899
+Chennai,T Nagar,Villa,1.0,4.0,4054,,1.0,6,semi furnished,90353916
+Delhi,Andheri,Apartment,1.0,2.0,1420,25.0,2.0,5,,19673320
+Mumbai,Salt Lake,Apartment,2.0,,3982,5.0,2.0,7,Furnished,61578979
+Lucknow,Hinjewadi,villa,4.0,4.0,591,27.0,1.0,22,Semi-Furnished,8770133
+Ahmedabad,Dwarka,Apartment,5.0,5.0,5404,18.0,3.0,26,,44729522
+Chennai,Hinjewadi,Villa,4.0,2.0,5614,33.0,1.0,34,Furnished,127756522
+Hyderabad,Navrangpura,apartment,,4.0,3168,32.0,2.0,24,Unfurnished,29398472
+Bangalore,Salt Lake,Independent House,1.0,4.0,4687,14.0,1.0,6,Semi-Furnished,100194882
+Jaipur,Salt Lake,Villa,5.0,4.0,3256,11.0,1.0,15,,52594469
+Hyderabad,Gomti Nagar,Apartment,6.0,,3230,9.0,,12,semi furnished,36199925
+Kolkata,Andheri,Apartment,2.0,5.0,172,0.0,2.0,12,Semi-Furnished,4460094
+Hyderabad,Salt Lake,Apartment,2.0,5.0,1510,33.0,2.0,4,Unfurnished,18943893
+Pune,Gomti Nagar,Apartment,3.0,3.0,2992,10.0,3.0,31,Unfurnished,32468117
+Jaipur,Gomti Nagar,Independent House,2.0,,5174,24.0,2.0,18,Semi-Furnished,55629449
+Lucknow,Hinjewadi,apartment,1.0,2.0,5284,14.0,,6,semi furnished,28974282
+Mumbai,Whitefield,Independent House,3.0,2.0,5561,5.0,2.0,28,Furnished,158112643
+Mumbai,Banjara Hills,Independent House,,1.0,360,28.0,3.0,10,semi furnished,12105671
+Pune,Andheri,Flat,,5.0,5682,14.0,1.0,28,Furnished,57082032
+Chennai,Andheri,Apartment,3.0,2.0,3425,4.0,,5,Unfurnished,36661089
+Ahmedabad,Salt Lake,Flat,6.0,2.0,5325,10.0,0.0,6,Unfurnished,39701982
+Pune,Malviya Nagar,villa,6.0,5.0,2523,19.0,1.0,6,Furnished,65291061
+Ahmedabad,Dwarka,Apartment,3.0,1.0,3852,30.0,1.0,6,Furnished,27408607
+Chennai,Andheri,Flat,,1.0,2876,30.0,3.0,16,Furnished,25814288
+Pune,Banjara Hills,Villa,4.0,1.0,2506,16.0,1.0,17,,62306828
+Mumbai,Andheri,villa,3.0,5.0,3741,14.0,,3,semi furnished,138480817
+Jaipur,Navrangpura,apartment,2.0,4.0,2798,2.0,,Top,,21903487
+Lucknow,Dwarka,Apartment,,4.0,1766,10.0,1.0,12,Semi-Furnished,12083046
+Pune,Whitefield,villa,2.0,5.0,2462,4.0,0.0,24,,61864294
+Chennai,Malviya Nagar,Flat,,1.0,5454,26.0,0.0,26,Semi-Furnished,50259902
+Mumbai,Andheri,apartment,,1.0,2693,22.0,3.0,16,semi furnished,46019278
+Kolkata,Dwarka,Independent House,4.0,2.0,5414,25.0,0.0,25,Unfurnished,80580009
+Ahmedabad,T Nagar,Independent House,1.0,3.0,2832,31.0,0.0,14,Semi-Furnished,36216140
+Ahmedabad,Banjara Hills,Independent House,6.0,4.0,5305,12.0,3.0,13,semi furnished,75740667
+Hyderabad,Salt Lake,apartment,,2.0,887,32.0,3.0,8,,6980974
+Bangalore,Salt Lake,Villa,1.0,4.0,764,12.0,2.0,23,semi furnished,23693691
+Mumbai,Salt Lake,Villa,3.0,4.0,5216,30.0,,Ground,Unfurnished,196704809
+Chennai,Andheri,Independent House,1.0,4.0,756,13.0,1.0,14,Semi-Furnished,13229324
+Jaipur,Salt Lake,villa,1.0,4.0,1433,0.0,1.0,16,,22208797
+Chennai,Hinjewadi,Flat,,3.0,4110,29.0,2.0,33,,40624153
+Jaipur,Banjara Hills,apartment,6.0,5.0,5339,6.0,3.0,4,Unfurnished,38484669
+Chennai,T Nagar,villa,6.0,,2797,33.0,1.0,3,,65589744
+Delhi,Salt Lake,villa,4.0,3.0,2475,25.0,3.0,2,,76597112
+Bangalore,Banjara Hills,villa,6.0,2.0,5972,30.0,2.0,32,Unfurnished,158771215
+Jaipur,Dwarka,Independent House,1.0,4.0,1398,,1.0,21,Furnished,15996733
+Chennai,Hinjewadi,Independent House,3.0,3.0,5146,7.0,3.0,3,,91652827
+Mumbai,Navrangpura,Villa,5.0,1.0,5926,19.0,3.0,3,Semi-Furnished,223126743
+Hyderabad,Hinjewadi,apartment,4.0,2.0,2941,11.0,0.0,31,Unfurnished,34035566
+Hyderabad,Salt Lake,Apartment,4.0,3.0,2065,10.0,,10,semi furnished,21370744
+Pune,Hinjewadi,Flat,4.0,4.0,186,12.0,2.0,0,Unfurnished,6872314
+Kolkata,Whitefield,Villa,6.0,3.0,2906,24.0,,,Unfurnished,56521386
+Kolkata,T Nagar,Independent House,4.0,,4612,21.0,3.0,8,Unfurnished,67341094
+Delhi,Hinjewadi,Apartment,2.0,2.0,1424,1.0,,32,Semi-Furnished,17919677
+Kolkata,Hinjewadi,villa,3.0,5.0,5454,3.0,0.0,1,Furnished,104035799
+Ahmedabad,Hinjewadi,Apartment,5.0,3.0,4236,13.0,0.0,19,semi furnished,36943524
+Jaipur,T Nagar,apartment,5.0,,1473,6.0,,7,Unfurnished,10672924
+Lucknow,Whitefield,Independent House,,5.0,2002,26.0,2.0,10,Furnished,22324855
+Ahmedabad,Banjara Hills,Villa,1.0,1.0,5852,7.0,,31,Semi-Furnished,100726812
+Mumbai,Andheri,Independent House,6.0,2.0,4091,18.0,2.0,29,Furnished,116702537
+Kolkata,T Nagar,Independent House,,,2911,7.0,0.0,2,Furnished,45144535
+Hyderabad,Navrangpura,apartment,3.0,,1111,21.0,1.0,7,semi furnished,13321404
+Pune,Navrangpura,Flat,6.0,2.0,1276,3.0,1.0,6,semi furnished,19347452
+Lucknow,Navrangpura,Villa,5.0,4.0,3287,8.0,3.0,31,Furnished,50294038
+Mumbai,T Nagar,villa,3.0,1.0,5903,14.0,2.0,33,,216423028
+Mumbai,Hinjewadi,villa,6.0,2.0,4297,24.0,1.0,Ground,,170319701
+Jaipur,Navrangpura,Flat,,2.0,963,20.0,1.0,21,Unfurnished,7141095
+Pune,Hinjewadi,Villa,1.0,4.0,3988,28.0,0.0,31,semi furnished,99271796
+Ahmedabad,Salt Lake,Apartment,4.0,4.0,643,0.0,0.0,19,,10398227
+Ahmedabad,Banjara Hills,Independent House,,1.0,2176,21.0,,30,Unfurnished,28385800
+Bangalore,Salt Lake,Independent House,3.0,,2741,23.0,0.0,2,Semi-Furnished,55825845
+Pune,Andheri,Independent House,5.0,2.0,1886,25.0,1.0,29,Semi-Furnished,37795712
+Pune,Salt Lake,villa,,,5173,28.0,3.0,,,121494545
+Kolkata,Malviya Nagar,Flat,,5.0,4306,11.0,,11,Semi-Furnished,33822253
+Lucknow,Banjara Hills,apartment,4.0,4.0,5338,15.0,2.0,25,Unfurnished,33386066
+Delhi,Dwarka,Flat,5.0,,4546,,2.0,Ground,Semi-Furnished,56166573
+Chennai,Banjara Hills,villa,2.0,,5675,11.0,,34,Unfurnished,121904488
+Jaipur,Navrangpura,apartment,5.0,,3769,34.0,2.0,27,Furnished,23961699
+Delhi,Salt Lake,villa,1.0,2.0,2537,10.0,2.0,16,Semi-Furnished,71352417
+Chennai,Whitefield,apartment,1.0,3.0,4057,,1.0,Ground,semi furnished,38096615
+Chennai,Salt Lake,Flat,4.0,4.0,5962,,0.0,0,Unfurnished,55067723
+Ahmedabad,Whitefield,villa,6.0,,5655,34.0,,12,Semi-Furnished,98222252
+Mumbai,Dwarka,Villa,6.0,5.0,1327,27.0,2.0,Ground,Unfurnished,52078957
+Chennai,Salt Lake,Independent House,4.0,,1618,20.0,,3,,29366333
+Lucknow,Malviya Nagar,Independent House,1.0,,2953,11.0,,4,,31358172
+Pune,Andheri,Independent House,2.0,2.0,5784,23.0,2.0,13,,110591627
+Jaipur,Salt Lake,Apartment,6.0,3.0,4000,15.0,0.0,20,semi furnished,27036050
+Jaipur,T Nagar,Apartment,5.0,3.0,4563,28.0,3.0,2,Unfurnished,34058534
+Jaipur,Andheri,Apartment,2.0,5.0,66,13.0,1.0,27,Furnished,1371366
+Pune,Andheri,villa,6.0,2.0,544,21.0,0.0,5,Furnished,13902713
+Chennai,Malviya Nagar,Apartment,5.0,2.0,2468,28.0,3.0,27,Unfurnished,23062171
+Mumbai,Malviya Nagar,Apartment,6.0,,5415,2.0,0.0,22,,88275325
+Chennai,Gomti Nagar,Apartment,3.0,4.0,3474,1.0,3.0,10,,35136007
+Pune,Malviya Nagar,Independent House,6.0,2.0,2791,23.0,0.0,Ground,,53738449
+Kolkata,Gomti Nagar,apartment,4.0,5.0,4835,19.0,1.0,22,Semi-Furnished,41419596
+Jaipur,Dwarka,Villa,2.0,2.0,5403,12.0,0.0,11,,79591570
+Jaipur,Navrangpura,villa,5.0,1.0,2731,16.0,0.0,12,,43042161
+Hyderabad,Dwarka,villa,6.0,2.0,1169,4.0,1.0,20,semi furnished,32064647
+Chennai,Gomti Nagar,Villa,5.0,5.0,3335,27.0,1.0,0,Unfurnished,77407506
+Pune,T Nagar,Independent House,2.0,,3066,29.0,3.0,22,Unfurnished,59678278
+Lucknow,Andheri,Independent House,,2.0,4762,4.0,0.0,1,,51950803
+Lucknow,Whitefield,Apartment,5.0,3.0,4802,34.0,3.0,9,Unfurnished,30489954
+Lucknow,T Nagar,Villa,4.0,5.0,4531,23.0,,0,Semi-Furnished,67337475
+Jaipur,Dwarka,Flat,2.0,2.0,4989,9.0,3.0,22,Furnished,30365379
+Bangalore,Andheri,Independent House,3.0,2.0,700,33.0,2.0,24,semi furnished,16143225
+Kolkata,Banjara Hills,Apartment,6.0,5.0,5540,16.0,,34,,46510357
+Pune,Banjara Hills,apartment,6.0,1.0,4582,14.0,,25,Unfurnished,51317140
+Ahmedabad,Gomti Nagar,Apartment,5.0,2.0,3953,4.0,,17,Semi-Furnished,31058147
+Hyderabad,Gomti Nagar,villa,,1.0,5765,21.0,0.0,30,semi furnished,131506371
+Pune,Salt Lake,Villa,1.0,2.0,5048,8.0,,2,,125190073
+Chennai,Dwarka,apartment,4.0,5.0,4967,18.0,0.0,13,semi furnished,51709027
+Ahmedabad,Dwarka,Villa,,4.0,5272,11.0,,32,Unfurnished,96928539
+Ahmedabad,Gomti Nagar,apartment,1.0,2.0,3448,6.0,0.0,12,,27242314
+Delhi,Gomti Nagar,Apartment,2.0,4.0,5386,34.0,,7,Furnished,68832610
+Lucknow,Malviya Nagar,Apartment,,,5668,26.0,2.0,2,,35235304
+Pune,Banjara Hills,apartment,,,5069,8.0,2.0,30,Semi-Furnished,55876439
+Pune,T Nagar,Villa,1.0,,408,7.0,,0,semi furnished,10231856
+Hyderabad,Hinjewadi,Independent House,1.0,2.0,3840,16.0,2.0,34,semi furnished,70647357
+Chennai,Hinjewadi,Villa,4.0,5.0,4917,23.0,,Ground,semi furnished,112569329
+Lucknow,Banjara Hills,villa,4.0,,1481,7.0,1.0,28,Semi-Furnished,21108041
+Hyderabad,Malviya Nagar,apartment,6.0,,776,0.0,0.0,9,semi furnished,13419090
+Chennai,Whitefield,Independent House,1.0,5.0,659,25.0,,33,Unfurnished,14827214
+Kolkata,Dwarka,villa,4.0,4.0,437,33.0,2.0,12,Furnished,12083875
+Bangalore,Gomti Nagar,Villa,6.0,1.0,3296,0.0,1.0,5,Unfurnished,95525668
+Pune,Hinjewadi,apartment,2.0,5.0,475,4.0,0.0,Ground,Unfurnished,9270187
+Hyderabad,Banjara Hills,Independent House,2.0,5.0,1943,25.0,,0,Unfurnished,34477610
+Mumbai,Malviya Nagar,Apartment,5.0,3.0,3135,32.0,2.0,34,,50684338
+Pune,Gomti Nagar,Flat,,2.0,3132,29.0,3.0,,Furnished,30974489
+Pune,Whitefield,villa,6.0,2.0,2936,22.0,,34,Furnished,76658012
+Bangalore,T Nagar,Apartment,4.0,,3151,11.0,3.0,20,Unfurnished,40785090
+Bangalore,Navrangpura,villa,2.0,2.0,2332,13.0,1.0,12,Semi-Furnished,64883750
+Mumbai,Andheri,Apartment,6.0,,4385,34.0,0.0,30,Unfurnished,70941908
+Lucknow,T Nagar,Flat,2.0,5.0,2645,8.0,0.0,33,semi furnished,17765369
+Kolkata,Malviya Nagar,Independent House,4.0,,1781,7.0,,29,Unfurnished,42572536
+Pune,Gomti Nagar,Apartment,3.0,3.0,5369,11.0,,16,Semi-Furnished,57562560
+Lucknow,Banjara Hills,Independent House,2.0,4.0,3822,23.0,2.0,25,Unfurnished,41597300
+Delhi,Gomti Nagar,villa,2.0,1.0,2561,,3.0,24,Semi-Furnished,73324369
+Delhi,Navrangpura,Apartment,2.0,4.0,4442,33.0,,20,semi furnished,55588029
+Lucknow,Salt Lake,Flat,1.0,,1688,16.0,3.0,6,semi furnished,10079894
+Hyderabad,Malviya Nagar,apartment,,3.0,81,22.0,,12,,1237751
+Jaipur,Navrangpura,villa,4.0,1.0,3471,29.0,1.0,10,Unfurnished,51749244
+Lucknow,Hinjewadi,Apartment,1.0,2.0,3164,20.0,2.0,17,,20865748
+Ahmedabad,Banjara Hills,villa,5.0,5.0,4038,11.0,0.0,8,Semi-Furnished,74450718
+Mumbai,Whitefield,Villa,4.0,1.0,1132,30.0,,3,Furnished,44042462
+Mumbai,Andheri,Independent House,5.0,2.0,1040,24.0,2.0,14,Semi-Furnished,31487035
+Delhi,Dwarka,apartment,,2.0,584,22.0,2.0,30,semi furnished,10519851
+Jaipur,Dwarka,apartment,5.0,4.0,5519,27.0,,34,Unfurnished,37475818
+Bangalore,Andheri,Flat,3.0,3.0,3726,19.0,0.0,0,,40402539
+Ahmedabad,Malviya Nagar,Apartment,6.0,4.0,4258,27.0,2.0,14,Furnished,36601977
+Pune,Malviya Nagar,Flat,4.0,2.0,1687,24.0,3.0,14,Unfurnished,16712019
+Bangalore,Malviya Nagar,apartment,,,5958,34.0,2.0,26,Semi-Furnished,65455605
+Ahmedabad,Gomti Nagar,Flat,3.0,,5451,20.0,0.0,9,Furnished,36584763
+Mumbai,T Nagar,Independent House,2.0,,3941,14.0,0.0,9,Furnished,110575185
+Chennai,Navrangpura,Independent House,4.0,,609,9.0,0.0,17,semi furnished,14332056
+Bangalore,T Nagar,Flat,,1.0,1349,15.0,3.0,28,Semi-Furnished,13896773
+Mumbai,Malviya Nagar,villa,2.0,4.0,3537,19.0,2.0,10,Furnished,130242769
+Chennai,Navrangpura,villa,3.0,2.0,3302,13.0,0.0,15,semi furnished,91927052
+Lucknow,Andheri,Flat,,2.0,423,30.0,,9,Unfurnished,1200000
+Mumbai,Gomti Nagar,Independent House,,,841,9.0,,6,Semi-Furnished,25967283
+Hyderabad,Navrangpura,villa,2.0,1.0,5996,8.0,2.0,2,semi furnished,140720712
+Chennai,Malviya Nagar,villa,4.0,2.0,4992,22.0,2.0,29,Unfurnished,111819866
+Jaipur,Dwarka,Apartment,5.0,2.0,4031,16.0,,23,semi furnished,25399478
+Jaipur,Hinjewadi,villa,2.0,1.0,5426,15.0,2.0,4,,79209460
+Ahmedabad,Malviya Nagar,Villa,5.0,3.0,2992,20.0,0.0,6,,57903402
+Delhi,Dwarka,Apartment,2.0,1.0,4326,2.0,,24,semi furnished,57149389
+Lucknow,T Nagar,Apartment,3.0,2.0,5313,0.0,1.0,31,Furnished,34196724
+Kolkata,Banjara Hills,apartment,6.0,4.0,3373,3.0,,17,,29035423
+Chennai,Andheri,Villa,5.0,1.0,1179,34.0,3.0,12,Semi-Furnished,30029074
+Lucknow,Dwarka,apartment,6.0,5.0,3751,22.0,3.0,27,Furnished,24665017
+Jaipur,Hinjewadi,apartment,3.0,,1645,28.0,2.0,20,,11623009
+Pune,Banjara Hills,apartment,2.0,5.0,4819,,2.0,23,semi furnished,53481500
+Kolkata,Salt Lake,Independent House,5.0,1.0,4590,19.0,0.0,19,Semi-Furnished,65810664
+Kolkata,T Nagar,apartment,5.0,5.0,5024,9.0,0.0,2,semi furnished,43585656
+Chennai,Banjara Hills,apartment,2.0,2.0,2449,5.0,,25,,23601636
+Hyderabad,Navrangpura,Villa,4.0,,5070,6.0,,19,Furnished,125544058
+Kolkata,Banjara Hills,Independent House,,4.0,3762,7.0,1.0,0,semi furnished,54000188
+Hyderabad,Malviya Nagar,apartment,2.0,3.0,4465,9.0,0.0,25,semi furnished,47821530
+Mumbai,Whitefield,Flat,3.0,4.0,1562,5.0,3.0,Top,Furnished,28262075
+Mumbai,Hinjewadi,apartment,4.0,,1418,30.0,,12,semi furnished,26222256
+Jaipur,Gomti Nagar,villa,5.0,2.0,2335,27.0,2.0,Top,Furnished,34160888
+Pune,Banjara Hills,Independent House,2.0,3.0,3172,1.0,2.0,10,Unfurnished,64144076
+Ahmedabad,Gomti Nagar,Villa,4.0,1.0,2262,23.0,1.0,5,Furnished,38764161
+Lucknow,Dwarka,Independent House,1.0,3.0,1261,30.0,0.0,21,Semi-Furnished,14146372
+Jaipur,Malviya Nagar,Independent House,5.0,4.0,5453,9.0,0.0,24,,67929175
+Chennai,Dwarka,Apartment,3.0,2.0,5412,29.0,0.0,4,semi furnished,54010928
+Hyderabad,Andheri,Apartment,3.0,,3516,24.0,,6,Unfurnished,38066971
+Delhi,Whitefield,apartment,4.0,5.0,526,33.0,2.0,21,semi furnished,9379556
+Kolkata,Banjara Hills,villa,3.0,3.0,5471,32.0,2.0,3,Unfurnished,99677561
+Kolkata,Malviya Nagar,Independent House,2.0,2.0,3149,8.0,0.0,24,,48379393
+Bangalore,Hinjewadi,Villa,5.0,2.0,3843,21.0,3.0,34,Semi-Furnished,107522813
+Lucknow,Malviya Nagar,villa,,2.0,1481,33.0,1.0,27,Semi-Furnished,19182387
+Jaipur,Andheri,Villa,3.0,2.0,591,26.0,3.0,19,semi furnished,12743079
+Chennai,Dwarka,Villa,1.0,2.0,118,14.0,,14,Semi-Furnished,5986895
+Mumbai,Navrangpura,Villa,5.0,5.0,4190,23.0,1.0,24,semi furnished,161533516
+Bangalore,Whitefield,Apartment,4.0,1.0,2560,14.0,1.0,13,Furnished,30141839
+Ahmedabad,Gomti Nagar,Flat,6.0,3.0,4098,27.0,3.0,2,,32417577
+Pune,Gomti Nagar,villa,5.0,5.0,4742,2.0,,6,semi furnished,119311397
+Kolkata,Whitefield,apartment,5.0,4.0,671,33.0,0.0,12,Unfurnished,8476045
+Chennai,T Nagar,Flat,2.0,4.0,2761,3.0,,9,semi furnished,29555704
+Jaipur,Andheri,Villa,,5.0,4826,26.0,2.0,28,Furnished,74649925
+Bangalore,Navrangpura,Apartment,3.0,3.0,5663,10.0,0.0,5,Furnished,70058979
+Hyderabad,Andheri,apartment,6.0,4.0,4541,10.0,3.0,Ground,semi furnished,47523390
+Hyderabad,Gomti Nagar,villa,,2.0,1678,11.0,0.0,26,Unfurnished,40859357
+Delhi,Andheri,Villa,2.0,1.0,5450,0.0,3.0,31,semi furnished,167037618
+Lucknow,Navrangpura,Villa,2.0,5.0,5752,26.0,3.0,5,,111113213
+Chennai,Gomti Nagar,villa,5.0,2.0,750,3.0,2.0,2,Semi-Furnished,17683060
+Lucknow,T Nagar,Independent House,1.0,1.0,1242,11.0,1.0,18,,15796869
+Lucknow,Gomti Nagar,apartment,2.0,4.0,5092,2.0,0.0,19,Unfurnished,31688024
+Mumbai,Hinjewadi,apartment,1.0,3.0,4206,17.0,2.0,33,semi furnished,67869651
+Bangalore,Gomti Nagar,Apartment,1.0,5.0,5502,5.0,3.0,18,semi furnished,67465238
+Chennai,Malviya Nagar,apartment,5.0,3.0,1412,31.0,,31,semi furnished,14290491
+Bangalore,T Nagar,Villa,1.0,1.0,546,7.0,1.0,26,semi furnished,13097592
+Jaipur,Whitefield,Apartment,6.0,2.0,2657,4.0,2.0,19,,23093360
+Kolkata,Andheri,villa,3.0,3.0,3594,1.0,1.0,12,Unfurnished,67426179
+Ahmedabad,Navrangpura,Apartment,6.0,2.0,4294,29.0,,21,semi furnished,34827809
+Kolkata,Malviya Nagar,Independent House,5.0,,5905,34.0,0.0,13,,84878863
+Hyderabad,Andheri,Villa,3.0,1.0,3128,34.0,1.0,Top,,74809054
+Mumbai,T Nagar,villa,,3.0,609,5.0,3.0,15,Unfurnished,25304553
+Chennai,Dwarka,Apartment,3.0,1.0,2005,28.0,,1,semi furnished,20721559
+Hyderabad,Navrangpura,villa,,5.0,2892,9.0,0.0,33,Semi-Furnished,65339432
+Jaipur,Andheri,Apartment,3.0,1.0,5978,5.0,2.0,29,Furnished,37602609
+Chennai,Salt Lake,apartment,,3.0,5583,20.0,1.0,12,Unfurnished,55601933
+Ahmedabad,Andheri,Independent House,2.0,2.0,2591,,,6,Semi-Furnished,37033524
+Hyderabad,T Nagar,Villa,6.0,3.0,5052,4.0,2.0,21,,125714610
+Kolkata,Navrangpura,villa,1.0,1.0,3492,27.0,3.0,11,,64403878
+Ahmedabad,Gomti Nagar,Independent House,3.0,3.0,1973,34.0,0.0,29,,24749770
+Ahmedabad,Andheri,Flat,3.0,,5629,29.0,3.0,14,Semi-Furnished,42160449
+Hyderabad,Hinjewadi,Villa,6.0,,3056,20.0,3.0,31,Furnished,77191265
+Ahmedabad,Navrangpura,Villa,3.0,3.0,5301,32.0,0.0,25,Furnished,93272665
+Mumbai,T Nagar,apartment,4.0,4.0,5187,15.0,,10,semi furnished,84341885
+Bangalore,Gomti Nagar,Flat,,4.0,4996,34.0,1.0,11,Furnished,54225537
+Ahmedabad,Banjara Hills,apartment,1.0,4.0,1793,25.0,0.0,6,,13506575
+Kolkata,Andheri,Villa,,2.0,5107,0.0,1.0,9,semi furnished,98754451
+Ahmedabad,Whitefield,Villa,6.0,3.0,2805,19.0,3.0,22,Furnished,82429211
+Pune,Dwarka,Independent House,1.0,3.0,4846,0.0,,22,Furnished,91864462
+Bangalore,Hinjewadi,villa,5.0,4.0,5471,24.0,3.0,24,semi furnished,149205739
+Delhi,Navrangpura,Villa,2.0,5.0,3500,23.0,3.0,9,Unfurnished,109397921
+Kolkata,Andheri,villa,1.0,2.0,4337,8.0,0.0,8,semi furnished,79411225
+Lucknow,Hinjewadi,apartment,2.0,4.0,4523,28.0,3.0,22,Semi-Furnished,25750088
+Kolkata,Gomti Nagar,Flat,,,2289,17.0,3.0,34,,16114124
+Hyderabad,Andheri,apartment,4.0,,1005,33.0,2.0,29,,12634634
+Mumbai,Whitefield,Flat,6.0,,5787,4.0,,,Unfurnished,88226042
+Jaipur,Salt Lake,Flat,4.0,5.0,4193,21.0,3.0,22,Unfurnished,27757160
+Lucknow,T Nagar,villa,,5.0,2483,30.0,,10,,35601958
+Lucknow,Salt Lake,Independent House,4.0,1.0,1388,17.0,2.0,8,,16002811
+Chennai,Salt Lake,villa,1.0,5.0,1780,9.0,3.0,23,Semi-Furnished,39666385
+Bangalore,Navrangpura,Villa,,5.0,621,5.0,1.0,9,semi furnished,21419413
+Ahmedabad,Dwarka,Villa,5.0,,3176,16.0,0.0,3,Semi-Furnished,58895985
+Ahmedabad,Malviya Nagar,Villa,4.0,,3545,9.0,,27,Furnished,65698220
+Hyderabad,Malviya Nagar,villa,1.0,1.0,4702,27.0,,17,Unfurnished,105540906
+Mumbai,T Nagar,villa,5.0,4.0,4127,15.0,,12,,151812131
+Delhi,Banjara Hills,apartment,1.0,,419,0.0,3.0,6,,9519507
+Bangalore,T Nagar,Independent House,2.0,1.0,544,3.0,,13,,15239675
+Mumbai,Andheri,apartment,2.0,4.0,5727,11.0,0.0,11,Unfurnished,90697220
+Mumbai,Navrangpura,Independent House,,4.0,5818,20.0,2.0,10,Furnished,163252783
+Hyderabad,Salt Lake,Independent House,,3.0,1807,31.0,1.0,25,Semi-Furnished,31910268
+Pune,Whitefield,apartment,6.0,1.0,3967,6.0,0.0,4,Furnished,47159585
+Ahmedabad,Salt Lake,Flat,2.0,,59,24.0,2.0,9,Unfurnished,29492945
+Ahmedabad,Hinjewadi,Flat,,,924,0.0,3.0,30,Furnished,12350036
+Kolkata,Andheri,Independent House,5.0,3.0,1009,18.0,1.0,11,,14906293
+Bangalore,T Nagar,villa,4.0,1.0,5516,31.0,0.0,28,Semi-Furnished,144395918
+Kolkata,Gomti Nagar,Villa,4.0,4.0,866,19.0,3.0,34,semi furnished,16654246
+Kolkata,Banjara Hills,villa,1.0,4.0,1318,33.0,3.0,34,Semi-Furnished,25799824
+Mumbai,Salt Lake,villa,2.0,4.0,61,15.0,1.0,0,Semi-Furnished,6300828
+Chennai,Andheri,Flat,5.0,2.0,5191,6.0,0.0,31,,52032638
+Bangalore,Hinjewadi,Independent House,,,5907,7.0,,34,Semi-Furnished,121144351
+Hyderabad,Andheri,Apartment,3.0,2.0,3750,23.0,,10,semi furnished,37478839
+Kolkata,Dwarka,Apartment,,,5367,10.0,0.0,31,Furnished,40717624
+Lucknow,T Nagar,Flat,6.0,4.0,1389,17.0,,28,semi furnished,11029831
+Lucknow,Salt Lake,apartment,2.0,,4445,5.0,2.0,22,semi furnished,28838813
+Mumbai,Malviya Nagar,Apartment,5.0,3.0,4771,29.0,1.0,17,Furnished,75747632
+Delhi,Navrangpura,Flat,2.0,2.0,5839,3.0,2.0,18,Semi-Furnished,72038474
+Lucknow,Navrangpura,Apartment,1.0,,779,11.0,1.0,1,semi furnished,3494504
+Bangalore,Navrangpura,apartment,5.0,3.0,3782,20.0,1.0,7,Unfurnished,45456854
+Pune,Whitefield,Flat,2.0,1.0,4208,3.0,3.0,9,Semi-Furnished,45732339
+Pune,Banjara Hills,Villa,4.0,,1940,17.0,1.0,21,Semi-Furnished,53404082
+Chennai,Dwarka,Apartment,,4.0,4106,21.0,1.0,18,,42199085
+Delhi,Gomti Nagar,apartment,,2.0,1058,33.0,3.0,13,,15880776
+Pune,Whitefield,Villa,3.0,4.0,5096,9.0,,0,semi furnished,127462139
+Ahmedabad,Malviya Nagar,Apartment,4.0,5.0,3580,6.0,3.0,31,Semi-Furnished,28209422
+Kolkata,Hinjewadi,Villa,2.0,3.0,2773,5.0,0.0,30,Unfurnished,52242860
+Lucknow,Gomti Nagar,Apartment,4.0,4.0,1485,25.0,1.0,23,semi furnished,13953958
+Mumbai,Hinjewadi,villa,3.0,5.0,617,17.0,,34,,23550630
+Mumbai,Gomti Nagar,Independent House,6.0,1.0,4566,23.0,0.0,7,semi furnished,131285078
+Kolkata,Banjara Hills,Independent House,2.0,,4927,,1.0,8,Unfurnished,71931856
+Ahmedabad,Gomti Nagar,villa,2.0,,2196,17.0,,27,Unfurnished,35076402
+Ahmedabad,Navrangpura,apartment,5.0,1.0,4201,34.0,2.0,28,,32621511
+Mumbai,Whitefield,Flat,1.0,1.0,3550,18.0,0.0,6,Semi-Furnished,51755775
+Delhi,Navrangpura,Villa,,2.0,4615,1.0,2.0,26,,141498882
+Ahmedabad,Salt Lake,Independent House,2.0,1.0,530,14.0,,21,semi furnished,9769646
+Hyderabad,Navrangpura,apartment,6.0,,4693,28.0,3.0,19,,49157906
+Chennai,Whitefield,Flat,3.0,3.0,737,18.0,3.0,10,,7272207
+Chennai,Dwarka,Villa,,,5808,10.0,1.0,7,Furnished,131061848
+Hyderabad,Dwarka,Villa,5.0,,634,22.0,1.0,23,semi furnished,16547375
+Mumbai,Salt Lake,Flat,4.0,2.0,4102,9.0,0.0,34,,63385623
+Chennai,Navrangpura,Independent House,,5.0,5813,28.0,2.0,7,semi furnished,96846991
+Mumbai,T Nagar,Apartment,4.0,5.0,2155,5.0,2.0,3,,40332720
+Jaipur,Whitefield,Independent House,2.0,1.0,1034,28.0,0.0,32,semi furnished,10125053
+Lucknow,Gomti Nagar,apartment,1.0,,3307,27.0,2.0,24,Unfurnished,17908860
+Chennai,Navrangpura,apartment,1.0,2.0,3989,26.0,3.0,18,Semi-Furnished,38042402
+Pune,Dwarka,apartment,5.0,1.0,1526,30.0,,21,Furnished,19855373
+Mumbai,Salt Lake,Flat,6.0,3.0,3745,29.0,,8,Semi-Furnished,57456234
+Chennai,Malviya Nagar,Flat,1.0,3.0,5144,,3.0,14,Furnished,44250972
+Chennai,Navrangpura,Apartment,6.0,,2706,31.0,1.0,1,Furnished,29429165
+Mumbai,Gomti Nagar,villa,3.0,5.0,4286,16.0,3.0,7,Unfurnished,158181058
+Kolkata,T Nagar,Villa,5.0,1.0,1547,8.0,2.0,10,Furnished,31887164
+Hyderabad,Salt Lake,Independent House,3.0,5.0,5584,32.0,1.0,11,Furnished,103028639
+Jaipur,Banjara Hills,Independent House,,,2816,23.0,0.0,34,,29642505
+Chennai,Banjara Hills,Flat,4.0,3.0,1685,9.0,,14,Semi-Furnished,19964359
+Jaipur,Malviya Nagar,villa,5.0,,1283,4.0,0.0,8,Furnished,22174612
+Hyderabad,Dwarka,Flat,5.0,5.0,3152,19.0,0.0,7,Semi-Furnished,31429407
+Delhi,Whitefield,Independent House,2.0,2.0,1416,27.0,0.0,4,Furnished,33116248
+Kolkata,Whitefield,Apartment,1.0,,4556,30.0,0.0,16,Furnished,34117188
+Mumbai,Andheri,apartment,2.0,5.0,1988,22.0,0.0,5,Semi-Furnished,31809595
+Hyderabad,Banjara Hills,Villa,,5.0,5371,4.0,0.0,,Furnished,128603969
+Delhi,Malviya Nagar,Apartment,6.0,1.0,2103,30.0,2.0,,Semi-Furnished,29843624
+Mumbai,Dwarka,Independent House,4.0,4.0,2105,26.0,0.0,20,Furnished,62326666
+Delhi,Navrangpura,Independent House,6.0,3.0,4914,5.0,2.0,31,Furnished,115750873
+Lucknow,T Nagar,villa,,4.0,2200,18.0,3.0,12,Furnished,35010164
+Kolkata,Navrangpura,villa,1.0,4.0,3938,5.0,0.0,9,semi furnished,72583400
+Mumbai,Dwarka,Apartment,3.0,2.0,3124,25.0,0.0,14,semi furnished,50996239
+Lucknow,Gomti Nagar,Independent House,,,3628,25.0,3.0,32,Unfurnished,36175165
+Ahmedabad,Navrangpura,Villa,6.0,2.0,593,3.0,0.0,31,Furnished,13468259
+Hyderabad,Dwarka,Independent House,5.0,5.0,1139,33.0,3.0,29,Semi-Furnished,23113560
+Ahmedabad,Malviya Nagar,Independent House,5.0,3.0,4778,2.0,3.0,7,semi furnished,68196754
+Pune,Navrangpura,Flat,1.0,1.0,1798,19.0,1.0,31,semi furnished,15837409
+Pune,Navrangpura,Apartment,5.0,,4368,34.0,,30,semi furnished,46108431
+Pune,T Nagar,Flat,5.0,4.0,5403,18.0,2.0,3,Furnished,59224806
+Hyderabad,Banjara Hills,villa,5.0,1.0,5471,6.0,3.0,22,Unfurnished,128728518
+Bangalore,Whitefield,Villa,6.0,3.0,5204,4.0,2.0,7,Unfurnished,167447900
+Kolkata,Navrangpura,villa,,4.0,5003,26.0,2.0,1,semi furnished,89978934
+Pune,Banjara Hills,apartment,1.0,4.0,1169,13.0,2.0,31,,16171052
+Lucknow,T Nagar,Independent House,4.0,2.0,4421,4.0,,13,Unfurnished,48062898
+Lucknow,Hinjewadi,Villa,5.0,,1103,6.0,,21,Unfurnished,20483528
+Ahmedabad,Hinjewadi,Villa,3.0,1.0,5687,32.0,2.0,27,,99671859
+Pune,T Nagar,apartment,5.0,4.0,5851,11.0,0.0,33,Semi-Furnished,66674312
+Ahmedabad,T Nagar,villa,5.0,5.0,3903,3.0,,12,Unfurnished,71216451
+Delhi,T Nagar,Flat,4.0,3.0,877,26.0,2.0,18,Semi-Furnished,11918942
+Bangalore,Hinjewadi,Villa,1.0,2.0,129,29.0,3.0,Ground,semi furnished,4036977
+Kolkata,Whitefield,Villa,3.0,2.0,588,17.0,,11,Furnished,13857897
+Kolkata,Andheri,Independent House,5.0,3.0,870,26.0,2.0,5,semi furnished,13463904
+Lucknow,Malviya Nagar,Apartment,5.0,,5104,33.0,2.0,31,Furnished,33241545
+Hyderabad,Banjara Hills,apartment,6.0,4.0,2282,13.0,1.0,6,Semi-Furnished,26077233
+Ahmedabad,Hinjewadi,Independent House,,5.0,808,23.0,0.0,20,,14376397
+Chennai,Dwarka,Independent House,4.0,,3362,1.0,,2,Furnished,63091753
+Jaipur,Hinjewadi,Independent House,6.0,,3322,7.0,,15,semi furnished,38903689
+Pune,T Nagar,Independent House,1.0,2.0,2786,10.0,3.0,20,semi furnished,50628140
+Mumbai,Navrangpura,Flat,6.0,4.0,3075,6.0,1.0,16,,48318228
+Lucknow,Malviya Nagar,villa,3.0,4.0,574,11.0,3.0,8,Furnished,11037539
+Chennai,Banjara Hills,apartment,1.0,1.0,1642,8.0,,26,Unfurnished,16816491
+Delhi,T Nagar,Villa,6.0,5.0,3033,12.0,0.0,26,Unfurnished,94290213
+Pune,Gomti Nagar,Villa,1.0,1.0,4925,14.0,0.0,29,Semi-Furnished,122213996
+Delhi,Salt Lake,Flat,5.0,4.0,5268,5.0,2.0,10,,92821000
+Pune,Navrangpura,villa,4.0,1.0,2188,12.0,2.0,18,semi furnished,55222023
+Bangalore,Gomti Nagar,Villa,,3.0,5897,11.0,3.0,9,Furnished,163929165
+Ahmedabad,Whitefield,Independent House,5.0,,5652,0.0,3.0,8,Unfurnished,79338738
+Pune,Hinjewadi,villa,5.0,3.0,948,3.0,0.0,21,Semi-Furnished,27831627
+Lucknow,Gomti Nagar,villa,6.0,1.0,393,24.0,2.0,25,Unfurnished,6579602
+Jaipur,Salt Lake,apartment,2.0,3.0,1741,21.0,3.0,8,Furnished,12000691
+Pune,Dwarka,Independent House,1.0,3.0,711,31.0,2.0,23,semi furnished,12628271
+Chennai,Gomti Nagar,Independent House,5.0,3.0,3919,20.0,3.0,9,,72182146
+Ahmedabad,Salt Lake,Villa,2.0,1.0,2233,30.0,2.0,10,semi furnished,39786014
+Ahmedabad,Salt Lake,Flat,3.0,,4944,31.0,0.0,9,Furnished,32662692
+Chennai,Dwarka,Villa,6.0,5.0,2584,13.0,,0,,64870091
+Mumbai,Whitefield,Flat,6.0,1.0,81,25.0,2.0,,Furnished,4149456
+Mumbai,Navrangpura,villa,6.0,4.0,4069,17.0,,0,Unfurnished,147838535
+Ahmedabad,Banjara Hills,villa,6.0,5.0,1409,3.0,2.0,20,Furnished,27050572
+Lucknow,Hinjewadi,Apartment,4.0,3.0,1808,25.0,0.0,1,Semi-Furnished,10783605
+Pune,T Nagar,villa,,,1612,31.0,3.0,19,,41666828
+Hyderabad,Malviya Nagar,Villa,4.0,4.0,3529,27.0,0.0,27,Unfurnished,88074144
+Pune,Andheri,Apartment,5.0,3.0,4147,9.0,3.0,33,,45188192
+Pune,Andheri,Flat,3.0,2.0,1396,19.0,1.0,33,semi furnished,14916159
+Jaipur,Andheri,Apartment,5.0,1.0,4533,6.0,3.0,Top,Unfurnished,32217714
+Mumbai,Malviya Nagar,Apartment,1.0,,5769,11.0,3.0,2,Furnished,94030155
+Lucknow,Navrangpura,villa,4.0,5.0,2521,11.0,1.0,11,Furnished,38998438
+Mumbai,Hinjewadi,apartment,1.0,1.0,3585,10.0,3.0,29,semi furnished,59333330
+Lucknow,Navrangpura,Independent House,5.0,5.0,3305,25.0,2.0,5,Semi-Furnished,49651857
+Kolkata,Whitefield,Apartment,2.0,4.0,5663,15.0,3.0,34,Semi-Furnished,44058605
+Ahmedabad,Dwarka,Flat,4.0,1.0,1304,9.0,3.0,31,semi furnished,9238113
+Lucknow,Whitefield,Villa,3.0,5.0,3559,0.0,0.0,27,semi furnished,53616211
+Lucknow,Malviya Nagar,Independent House,1.0,4.0,3624,31.0,1.0,3,,34537252
+Hyderabad,Malviya Nagar,Apartment,3.0,,3767,7.0,3.0,22,semi furnished,40962322
+Chennai,Whitefield,Flat,3.0,4.0,2251,21.0,,29,Semi-Furnished,21592059
+Pune,Hinjewadi,villa,6.0,,3301,10.0,,13,Unfurnished,81312950
+Delhi,Dwarka,Villa,2.0,5.0,4381,26.0,3.0,19,Semi-Furnished,131726562
+Kolkata,Banjara Hills,Independent House,3.0,,1649,32.0,0.0,4,Unfurnished,21728003
+Mumbai,Malviya Nagar,Villa,4.0,3.0,3137,2.0,,17,Semi-Furnished,123988556
+Lucknow,Andheri,villa,1.0,4.0,4094,7.0,0.0,6,,52657729
+Delhi,Andheri,Villa,3.0,2.0,2743,32.0,3.0,6,Semi-Furnished,85746545
+Delhi,Andheri,Villa,4.0,4.0,403,30.0,2.0,18,,12917304
+Hyderabad,Hinjewadi,Independent House,6.0,,2360,33.0,3.0,14,Semi-Furnished,45633169
+Ahmedabad,Malviya Nagar,villa,3.0,1.0,3975,0.0,,4,Furnished,68975296
+Delhi,Hinjewadi,Apartment,4.0,1.0,5758,9.0,,3,,74035556
+Jaipur,T Nagar,villa,6.0,3.0,121,33.0,,9,semi furnished,5614497
+Jaipur,Gomti Nagar,apartment,6.0,4.0,3178,25.0,1.0,19,Furnished,21095848
+Pune,Dwarka,apartment,5.0,3.0,2100,,2.0,33,Unfurnished,28282516
+Kolkata,Malviya Nagar,apartment,3.0,2.0,2839,32.0,0.0,3,Unfurnished,21943195
+Hyderabad,Andheri,Apartment,,,1371,0.0,3.0,21,Semi-Furnished,15595365
+Lucknow,Dwarka,villa,4.0,5.0,2378,33.0,,12,Unfurnished,34430993
+Pune,Hinjewadi,Apartment,1.0,1.0,3830,30.0,1.0,28,Furnished,39159864
+Pune,Gomti Nagar,apartment,5.0,4.0,2510,27.0,3.0,31,semi furnished,27955024
+Delhi,Navrangpura,villa,4.0,2.0,4554,7.0,1.0,29,semi furnished,131116546
+Jaipur,Banjara Hills,Apartment,5.0,4.0,1253,18.0,0.0,33,Semi-Furnished,9336413
+Hyderabad,T Nagar,Independent House,4.0,1.0,1520,26.0,0.0,19,Unfurnished,27250108
+Ahmedabad,Salt Lake,Apartment,5.0,3.0,903,26.0,3.0,Top,Unfurnished,11569812
+Hyderabad,Hinjewadi,Flat,,,5311,8.0,,29,semi furnished,52337157
+Lucknow,Gomti Nagar,Flat,4.0,2.0,3589,2.0,3.0,17,Furnished,21701903
+Lucknow,T Nagar,apartment,6.0,1.0,5624,12.0,,34,,33512822
+Jaipur,Whitefield,Flat,5.0,1.0,1335,34.0,1.0,1,Unfurnished,8410297
+Lucknow,Navrangpura,Apartment,,5.0,5321,2.0,3.0,1,Unfurnished,33660330
+Jaipur,Banjara Hills,Flat,3.0,1.0,1289,34.0,1.0,18,Semi-Furnished,6543530
+Mumbai,Dwarka,Independent House,4.0,,1736,20.0,1.0,1,Furnished,51297931
+Delhi,Hinjewadi,Independent House,3.0,4.0,1340,15.0,,,Semi-Furnished,33742171
+Jaipur,Hinjewadi,Apartment,3.0,1.0,2957,26.0,0.0,30,Furnished,19579985
+Kolkata,T Nagar,apartment,5.0,,1181,,1.0,19,,13582970
+Jaipur,Whitefield,Villa,3.0,5.0,1727,34.0,3.0,Ground,semi furnished,50735264
+Lucknow,T Nagar,villa,2.0,1.0,842,30.0,2.0,16,semi furnished,11135259
+Bangalore,Gomti Nagar,apartment,3.0,1.0,1672,4.0,2.0,5,semi furnished,24486529
+Delhi,Malviya Nagar,Independent House,4.0,2.0,5350,20.0,2.0,16,semi furnished,121932600
+Hyderabad,Banjara Hills,Villa,4.0,5.0,84,0.0,,30,Furnished,3552159
+Pune,Malviya Nagar,villa,6.0,4.0,3567,4.0,,1,semi furnished,93281847
+Pune,Gomti Nagar,Independent House,4.0,2.0,419,23.0,1.0,28,Furnished,8786930
+Chennai,Banjara Hills,Villa,1.0,5.0,5471,14.0,1.0,31,Unfurnished,121679211
+Lucknow,Whitefield,Apartment,2.0,,3594,17.0,,32,semi furnished,22961389
+Lucknow,Gomti Nagar,apartment,2.0,1.0,5168,4.0,1.0,16,,30093270
+Chennai,Whitefield,villa,1.0,,5902,16.0,,29,Furnished,129875069
+Kolkata,Banjara Hills,Flat,,4.0,2594,33.0,3.0,31,Unfurnished,18400186
+Pune,Malviya Nagar,Flat,3.0,1.0,3560,5.0,,1,Semi-Furnished,40212155
+Mumbai,Whitefield,Villa,2.0,3.0,2896,6.0,0.0,30,semi furnished,107537763
+Hyderabad,T Nagar,Villa,1.0,4.0,2302,3.0,2.0,33,Semi-Furnished,54261644
+Lucknow,Navrangpura,Apartment,6.0,4.0,5092,3.0,0.0,24,Unfurnished,37147596
+Delhi,Salt Lake,Flat,1.0,3.0,5353,4.0,0.0,3,,62243079
+Pune,Hinjewadi,Apartment,5.0,4.0,2259,0.0,3.0,24,semi furnished,29324811
+Lucknow,Andheri,Independent House,6.0,,562,21.0,,12,Furnished,6204436
+Mumbai,Gomti Nagar,Villa,5.0,2.0,5571,22.0,3.0,30,,212518019
+Delhi,Salt Lake,Apartment,2.0,3.0,5138,22.0,2.0,,,63573828
+Chennai,Gomti Nagar,Independent House,3.0,3.0,416,9.0,0.0,15,,11116774
+Pune,Banjara Hills,Villa,2.0,,1998,21.0,1.0,30,semi furnished,53793468
+Lucknow,Gomti Nagar,Independent House,5.0,3.0,3779,6.0,3.0,2,semi furnished,42299093
+Bangalore,Whitefield,Flat,5.0,2.0,2308,21.0,3.0,13,semi furnished,26903898
+Kolkata,Banjara Hills,Apartment,1.0,3.0,595,9.0,2.0,28,Semi-Furnished,8312018
+Hyderabad,Salt Lake,Apartment,2.0,2.0,2677,16.0,1.0,21,,26652057
+Kolkata,Dwarka,Independent House,1.0,1.0,5899,7.0,2.0,13,Unfurnished,84553873
+Hyderabad,Dwarka,apartment,,5.0,3903,4.0,0.0,9,Semi-Furnished,39809579
+Hyderabad,Banjara Hills,apartment,4.0,,2353,12.0,,18,Semi-Furnished,25121066
+Chennai,Dwarka,apartment,5.0,4.0,2064,30.0,,4,Semi-Furnished,23515601
+Jaipur,Banjara Hills,Flat,5.0,4.0,1816,23.0,,30,semi furnished,15124419
+Pune,Gomti Nagar,villa,1.0,2.0,2148,28.0,1.0,25,Semi-Furnished,50607064
+Pune,Gomti Nagar,Villa,,3.0,2435,8.0,0.0,18,semi furnished,62188469
+Ahmedabad,Malviya Nagar,apartment,3.0,4.0,4045,26.0,2.0,31,Unfurnished,30707852
+Delhi,Navrangpura,Villa,3.0,,971,5.0,2.0,32,,34517756
+Chennai,Whitefield,Apartment,1.0,1.0,3301,12.0,2.0,12,Unfurnished,30574710
+Chennai,Whitefield,villa,5.0,2.0,4799,0.0,2.0,18,Unfurnished,108160284
+Lucknow,Salt Lake,Flat,6.0,5.0,1572,14.0,1.0,13,semi furnished,12472860
+Jaipur,Navrangpura,villa,,4.0,3140,20.0,1.0,27,semi furnished,47225201
+Jaipur,Salt Lake,Independent House,2.0,5.0,1401,0.0,3.0,22,Unfurnished,18067584
+Pune,Malviya Nagar,Independent House,3.0,5.0,540,2.0,1.0,9,Unfurnished,15525130
+Lucknow,Gomti Nagar,apartment,,4.0,3473,25.0,0.0,34,semi furnished,21823283
+Lucknow,Navrangpura,villa,3.0,1.0,1754,,1.0,2,,26104409
+Bangalore,Andheri,Flat,3.0,2.0,2259,33.0,0.0,29,Furnished,25198291
+Delhi,Banjara Hills,Flat,4.0,2.0,1257,26.0,3.0,4,semi furnished,15885069
+Bangalore,T Nagar,Flat,,,5795,19.0,,12,,78805013
+Ahmedabad,Andheri,Flat,5.0,2.0,4657,31.0,3.0,29,,32160678
+Chennai,Navrangpura,Independent House,6.0,,2786,11.0,3.0,15,Semi-Furnished,52488049
+Delhi,Gomti Nagar,Apartment,4.0,,707,10.0,2.0,34,Unfurnished,9793248
+Bangalore,Navrangpura,Flat,,5.0,1343,4.0,0.0,32,Unfurnished,19418449
+Bangalore,Malviya Nagar,Apartment,4.0,1.0,949,29.0,3.0,21,semi furnished,11242335
+Kolkata,T Nagar,Apartment,6.0,2.0,3029,29.0,3.0,29,Furnished,24773668
+Bangalore,Navrangpura,Villa,4.0,3.0,1671,1.0,,6,Semi-Furnished,49161440
+Pune,Dwarka,Apartment,6.0,1.0,5899,28.0,2.0,11,Semi-Furnished,67382524
+Jaipur,Whitefield,Flat,6.0,1.0,5550,6.0,3.0,19,semi furnished,34990091
+Kolkata,Hinjewadi,Villa,2.0,3.0,2304,1.0,3.0,1,Furnished,45733819
+Mumbai,Whitefield,Apartment,,,1725,2.0,3.0,32,Furnished,31734851
+Lucknow,Whitefield,apartment,4.0,4.0,1339,6.0,2.0,20,Semi-Furnished,8754863
+Hyderabad,Salt Lake,Flat,2.0,4.0,2153,17.0,,23,Furnished,19447873
+Pune,T Nagar,apartment,4.0,1.0,4742,10.0,2.0,6,,51847680
+Pune,Dwarka,Independent House,2.0,,5983,30.0,0.0,21,Furnished,114259405
+Jaipur,Whitefield,apartment,5.0,,458,7.0,2.0,15,semi furnished,8761895
+Delhi,Banjara Hills,Flat,3.0,2.0,1592,2.0,1.0,28,Unfurnished,19751065
+Kolkata,Malviya Nagar,Flat,6.0,3.0,544,21.0,2.0,15,Semi-Furnished,9650114
+Bangalore,Whitefield,apartment,,4.0,4621,28.0,0.0,4,semi furnished,51558757
+Delhi,Whitefield,Villa,1.0,2.0,5204,13.0,1.0,32,Furnished,157080766
+Chennai,Dwarka,villa,2.0,2.0,3823,15.0,2.0,18,,84446915
+Bangalore,T Nagar,Flat,1.0,3.0,3612,30.0,3.0,27,,41557185
+Delhi,Navrangpura,Apartment,,4.0,3851,19.0,,34,Semi-Furnished,48763799
+Chennai,Navrangpura,Independent House,4.0,5.0,5314,21.0,1.0,30,Semi-Furnished,90943194
+Kolkata,Salt Lake,apartment,6.0,,3415,26.0,3.0,23,semi furnished,29869104
+Lucknow,Andheri,Flat,1.0,1.0,3502,10.0,1.0,27,Unfurnished,19483957
+Ahmedabad,Banjara Hills,villa,1.0,,3506,15.0,1.0,30,Furnished,61502277
+Kolkata,Dwarka,Independent House,5.0,4.0,5929,15.0,,,Semi-Furnished,84251653
+Mumbai,Hinjewadi,Flat,6.0,5.0,1008,12.0,3.0,10,semi furnished,19519797
+Jaipur,Malviya Nagar,villa,4.0,5.0,2872,5.0,0.0,Top,Unfurnished,43391111
+Bangalore,Hinjewadi,villa,3.0,1.0,1729,0.0,0.0,4,semi furnished,49297148
+Chennai,Hinjewadi,Villa,2.0,3.0,1876,12.0,3.0,11,,42127209
+Bangalore,Dwarka,Villa,1.0,,1846,12.0,2.0,26,semi furnished,54101802
+Delhi,Andheri,Independent House,1.0,4.0,1371,21.0,0.0,,Semi-Furnished,32342035
+Mumbai,Salt Lake,Apartment,3.0,1.0,5800,2.0,0.0,13,,89810917
+Jaipur,T Nagar,Flat,4.0,3.0,5301,23.0,2.0,20,Semi-Furnished,34019382
+Pune,Gomti Nagar,Apartment,3.0,3.0,152,8.0,0.0,7,,3405143
+Bangalore,Banjara Hills,Flat,5.0,,5747,32.0,3.0,12,Furnished,87107561
+Kolkata,Banjara Hills,villa,4.0,2.0,5320,5.0,2.0,27,semi furnished,101398347
+Mumbai,Hinjewadi,Independent House,5.0,2.0,1522,32.0,0.0,8,semi furnished,42488322
+Jaipur,Navrangpura,Villa,4.0,1.0,4299,15.0,1.0,13,Semi-Furnished,69221167
+Mumbai,Hinjewadi,villa,1.0,2.0,3024,17.0,1.0,16,semi furnished,111501530
+Delhi,Malviya Nagar,villa,6.0,4.0,1090,21.0,1.0,Top,,33044826
+Pune,Hinjewadi,villa,6.0,5.0,3929,14.0,2.0,7,Unfurnished,96867196
+Hyderabad,Gomti Nagar,Villa,6.0,1.0,5042,20.0,3.0,Top,Furnished,122903074
+Jaipur,Whitefield,Flat,4.0,3.0,3340,8.0,,,Semi-Furnished,21053627
+Jaipur,Navrangpura,Independent House,2.0,3.0,2143,29.0,1.0,18,Semi-Furnished,27246542
+Kolkata,Gomti Nagar,Independent House,3.0,5.0,5991,30.0,1.0,31,Unfurnished,88850398
+Kolkata,Banjara Hills,Villa,,,2075,14.0,0.0,11,semi furnished,43864192
+Delhi,Salt Lake,apartment,4.0,3.0,3810,22.0,3.0,25,Furnished,51786680
+Chennai,Whitefield,villa,,5.0,3575,20.0,,3,Unfurnished,82634067
+Delhi,Navrangpura,villa,4.0,3.0,1536,12.0,0.0,23,,44864544
+Delhi,Hinjewadi,Flat,6.0,2.0,811,30.0,1.0,3,Furnished,13968999
+Lucknow,Hinjewadi,Villa,6.0,,3659,7.0,1.0,25,semi furnished,57526980
+Delhi,Hinjewadi,villa,,,5744,29.0,3.0,17,semi furnished,163937412
+Mumbai,Navrangpura,villa,6.0,5.0,196,30.0,2.0,6,,9661628
+Pune,T Nagar,apartment,2.0,1.0,3014,34.0,1.0,25,Furnished,31319004
+Jaipur,Malviya Nagar,Flat,1.0,5.0,5140,7.0,1.0,7,Semi-Furnished,34420556
+Kolkata,Malviya Nagar,Flat,,3.0,1357,13.0,1.0,5,,9684015
+Mumbai,Malviya Nagar,Independent House,3.0,5.0,1755,0.0,1.0,19,Furnished,54417804
+Chennai,Malviya Nagar,Flat,2.0,5.0,4367,33.0,2.0,34,,38706625
+Kolkata,Whitefield,Apartment,2.0,2.0,2805,13.0,1.0,Ground,Semi-Furnished,25178236
+Delhi,Gomti Nagar,Flat,1.0,5.0,2438,10.0,3.0,29,Furnished,30127139
+Delhi,Malviya Nagar,Villa,1.0,,2556,12.0,2.0,Top,,76113405
+Delhi,Banjara Hills,Flat,4.0,1.0,5294,17.0,0.0,34,Furnished,67498297
+Mumbai,Banjara Hills,villa,1.0,3.0,3082,9.0,1.0,17,Furnished,109598796
+Bangalore,Hinjewadi,Apartment,,1.0,1789,19.0,,31,Furnished,24687006
+Chennai,Malviya Nagar,Independent House,5.0,1.0,742,24.0,1.0,22,,16548973
+Pune,Navrangpura,apartment,2.0,3.0,427,9.0,1.0,9,semi furnished,8096844
+Kolkata,Banjara Hills,villa,,2.0,5905,29.0,1.0,28,Unfurnished,108843703
+Pune,Malviya Nagar,villa,,2.0,2850,5.0,2.0,26,Unfurnished,71831053
+Bangalore,Andheri,Villa,5.0,1.0,1042,,3.0,0,semi furnished,34978516
+Delhi,Navrangpura,Flat,5.0,,5894,7.0,3.0,0,,70825419
+Jaipur,Banjara Hills,Villa,6.0,,4676,2.0,,28,Semi-Furnished,76569349
+Pune,Hinjewadi,Apartment,5.0,4.0,2259,0.0,3.0,24,semi furnished,29324811
+Hyderabad,T Nagar,Independent House,4.0,1.0,1520,26.0,0.0,19,Unfurnished,27250108
+Bangalore,Andheri,apartment,,4.0,5316,14.0,,24,semi furnished,63579418
+Lucknow,Salt Lake,apartment,2.0,,4445,5.0,2.0,22,semi furnished,28838813
+Ahmedabad,Andheri,villa,2.0,3.0,5470,12.0,3.0,7,,92535518
+Lucknow,Gomti Nagar,villa,6.0,1.0,393,24.0,2.0,25,Unfurnished,6579602
+Mumbai,Dwarka,Villa,6.0,5.0,1327,27.0,2.0,Ground,Unfurnished,52078957
+Ahmedabad,Andheri,Flat,3.0,,5629,29.0,3.0,14,Semi-Furnished,42160449
+Mumbai,Salt Lake,Apartment,3.0,1.0,5800,2.0,0.0,13,,89810917
+Chennai,Dwarka,Villa,1.0,2.0,118,14.0,,14,Semi-Furnished,5986895
+Bangalore,Dwarka,apartment,1.0,2.0,371,30.0,2.0,2,Semi-Furnished,3371038
+Pune,Malviya Nagar,villa,6.0,5.0,2523,19.0,1.0,6,Furnished,65291061
+Pune,Andheri,Flat,3.0,2.0,1396,19.0,1.0,33,semi furnished,14916159
+Chennai,Dwarka,Apartment,1.0,2.0,2869,18.0,3.0,7,semi furnished,30300889
+Lucknow,Navrangpura,Villa,5.0,4.0,3287,8.0,3.0,31,Furnished,50294038
+Mumbai,Andheri,Apartment,6.0,,4385,34.0,0.0,30,Unfurnished,70941908
+Pune,Dwarka,Flat,1.0,2.0,3488,6.0,0.0,20,Unfurnished,34881775
+Delhi,Gomti Nagar,Apartment,2.0,4.0,5386,34.0,,7,Furnished,68832610
+Pune,T Nagar,Independent House,1.0,2.0,2786,10.0,3.0,20,semi furnished,50628140
+Kolkata,Banjara Hills,villa,1.0,4.0,1318,33.0,3.0,34,Semi-Furnished,25799824
+Jaipur,Gomti Nagar,apartment,6.0,4.0,3178,25.0,1.0,19,Furnished,21095848
+Bangalore,Hinjewadi,Independent House,,,5907,7.0,,34,Semi-Furnished,121144351
+Jaipur,Salt Lake,apartment,2.0,3.0,1741,21.0,3.0,8,Furnished,12000691
+Lucknow,Gomti Nagar,apartment,,4.0,3473,25.0,0.0,34,semi furnished,21823283
+Jaipur,Navrangpura,villa,5.0,1.0,2731,16.0,0.0,12,,43042161
